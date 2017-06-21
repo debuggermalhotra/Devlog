@@ -21,8 +21,8 @@ description: Tracking progress on 'Visualization tools for Scikit-HEP project'
 
 gh_name: debuggermalhotra
 gh_commits: https://github.com/histogrammar/histogrammar-python/tree/vega/commits/?author=debuggermalhotra
-gh_prs: https://github.com/histogrammar/histogrammar-python/pulls?utf8=%E2%9C%93&q=is:pr+author:debuggermalhotra
-gh_issues: https://github.com/histogrammar/histogrammar-python/issues?utf8=%E2%9C%93&q=is:issue+author:debuggermalhotra
+gh_prs: https://github.com/histogrammar/histogrammar-python/tree/vega/pulls?utf8=%E2%9C%93&q=is:pr+author:debuggermalhotra
+gh_issues: https://github.com/histogrammar/histogrammar-python/tree/vega/issues?utf8=%E2%9C%93&q=is:issue+author:debuggermalhotra
 gh_project: https://github.com/histogrammar/histogrammar-python/tree/vega
 
 # -------------------------------------
